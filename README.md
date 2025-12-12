@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I’m a .NET-focused software developer with a strong interest in building modern backend services, desktop applications, and web solutions.<br>I enjoy designing clean architectures, working with Docker, exploring CI/CD pipelines, and continuously improving my skills through hands-on projects and collaboration.
+Hi! I’m a .NET-focused software developer with a strong interest in building modern backend services, desktop applications, and web solutions.<br><br>I enjoy designing clean architectures, working with Docker, exploring CI/CD pipelines, and continuously improving my skills through hands-on projects and collaboration.
 
 
 # 💻 Tech Stack:
