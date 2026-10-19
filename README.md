@@ -29,4 +29,4 @@ More in the [portfolio](https://github.com/Marcus0035/Portfolio).
   <img alt="Share of code by language across all my repositories: C# 40 %, TypeScript 34 %, HTML 12 %, CSS 10 %, JavaScript 2 %, other 2 %" src="assets/languages-light.svg" width="560">
 </picture>
 
-<sub>Share of code by language across all my repositories, public and private (October 2026). Refresh it with <code>python3 scripts/update-languages.py</code>.</sub>
+<sub>Updated 19 October 2026</sub>
