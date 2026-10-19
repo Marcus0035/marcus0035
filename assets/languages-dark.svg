@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="220" viewBox="0 0 560 220" role="img" aria-label="Share of code by language: C# 40 %, TypeScript 34 %, HTML 12 %, CSS 10 %, JavaScript 2 %, Other 2 %">
+<style>text{font-family:-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-size:14px}</style>
+<line x1="96" y1="8" x2="96" y2="212" stroke="#3d444d" stroke-width="1"/>
+<text x="84" y="30.0" text-anchor="end" fill="#f0f6fc">C#</text>
+<path d="M96 18.0 h396.0 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-396.0 z" fill="#3987e5"/>
+<text x="506.0" y="30.0" fill="#9198a1">40 %</text>
+<text x="84" y="64.0" text-anchor="end" fill="#f0f6fc">TypeScript</text>
+<path d="M96 52.0 h339.60098302207706 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-339.60098302207706 z" fill="#3987e5"/>
+<text x="449.60098302207706" y="64.0" fill="#9198a1">34 %</text>
+<text x="84" y="98.0" text-anchor="end" fill="#f0f6fc">HTML</text>
+<path d="M96 86.0 h116.2831812557732 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-116.2831812557732 z" fill="#3987e5"/>
+<text x="226.2831812557732" y="98.0" fill="#9198a1">12 %</text>
+<text x="84" y="132.0" text-anchor="end" fill="#f0f6fc">CSS</text>
+<path d="M96 120.0 h98.17657812423661 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-98.17657812423661 z" fill="#3987e5"/>
+<text x="208.1765781242366" y="132.0" fill="#9198a1">10 %</text>
+<text x="84" y="166.0" text-anchor="end" fill="#f0f6fc">JavaScript</text>
+<path d="M96 154.0 h14.747408091639652 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-14.747408091639652 z" fill="#3987e5"/>
+<text x="124.74740809163966" y="166.0" fill="#9198a1">2 %</text>
+<text x="84" y="200.0" text-anchor="end" fill="#f0f6fc">Other</text>
+<path d="M96 188.0 h20.893682049394247 a4 4 0 0 1 4 4 v6 a4 4 0 0 1 -4 4 h-20.893682049394247 z" fill="#3987e5"/>
+<text x="130.89368204939424" y="200.0" fill="#9198a1">2 %</text>
+</svg>
